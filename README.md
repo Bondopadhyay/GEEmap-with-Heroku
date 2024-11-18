@@ -1,4 +1,4 @@
-Heroku got got greedy and slowly getting into a ⚰
+Heroku got greedy and slowly, it is being obselete
 
 ## GEEmap-Heroku
 
