@@ -1,4 +1,6 @@
-# geemap-heroku
+Heroku got got greedy and slowly getting into a ⚰
+
+## GEEmap-Heroku
 
 Python scripts for deploying Earth Engine Apps to heroku, try it out: <https://geemap-demo.herokuapp.com/>
 
